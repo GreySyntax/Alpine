@@ -1,0 +1,6 @@
+C:\Users\Insane\documents\visual studio 2010\Projects\Alpine\Alpine\bin\Release\Alpine.dll
+C:\Users\Insane\documents\visual studio 2010\Projects\Alpine\Alpine\bin\Release\Alpine.pdb
+C:\Users\Insane\documents\visual studio 2010\Projects\Alpine\Alpine\bin\Release\LibUsbDotNet.dll
+C:\Users\Insane\documents\visual studio 2010\Projects\Alpine\Alpine\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Insane\documents\visual studio 2010\Projects\Alpine\Alpine\obj\Release\Alpine.dll
+C:\Users\Insane\documents\visual studio 2010\Projects\Alpine\Alpine\obj\Release\Alpine.pdb
